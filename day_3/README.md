@@ -1,24 +1,24 @@
 # Day 3 - If Statements and Conditionals
 
-One of the most important concepts in computer programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria.  We accomplish this with ***If-Statements*** and ***Conditionals***, which you will learn about today.
+One of the most important concepts in computer programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria. We accomplish this with **_If-Statements_** and **_Conditionals_**, which you will learn about today.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
 ## Open your local copy of backend_mod_1_prework
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../day_1) for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup. To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../day_1) for more detail if needed.
 
 ## If statement and Conditional Lessons
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+   - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
+   - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
+   - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+   - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
 1. Work through the exercise files in the day_3/exercises directory.
 
