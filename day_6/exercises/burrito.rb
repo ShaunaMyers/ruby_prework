@@ -6,7 +6,11 @@
 
 class Burrito
   attr_reader :protein, :base, :toppings
+  # The initialize method gets called every time you create a new object. That's odd, don't we call the new method when we create an object? Yes, calling the new class method eventually leads us to the initialize instance method. *** Kind of like the constructor method in JavaScript?*** Yes, We refer to the initialize method as a constructor, because it gets triggered whenever we create a new object.
   def initialize(protein, base, toppings)
+    # You can pass arguments into the initialize method through the new method.
+
+    # Notice below, the @ symbol in front of our variables. This is called an instance variable. It is a variable that exists as long as the object instance exists and it is one of the ways we tie data to objects. It does not "die" after the initialize method is run. It "lives on", to be referenced, until the object instance is destroyed.
     @protein  = protein
     @base     = base
     @toppings = toppings
